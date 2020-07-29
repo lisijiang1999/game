@@ -1,6 +1,6 @@
 ### 接口文档
 
-#### http接口地址
+#### http接口地址 http://149.28.70.155/api/swagger-ui.html
 ##### <a href="http://149.28.70.155/api/swagger-ui.html">http接口地址</a>
 
 #### ws接口地址 ws://149.28.70.155:10299
